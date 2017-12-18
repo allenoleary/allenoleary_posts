@@ -32,12 +32,22 @@ In this way I am envisaging readers being served personalised books the content 
 
 So I will look at various mechanisms for creating these books from simple personalisation based on IP address through to looking into using people's facebook or adnetwork profiles. See the technical roadmap for more on how I see the progression through these technical points working.
 
-Alongside this I will use the power of graph to create interesting, complex and applicable stories that are nuanced and 
+Alongside this I will be aiming to use the power of graph to create interesting, complex and involving stories. 
 
 
 
 
 ## The material of Aftermath
+
+So much for the ideas; what is the are area I want to look at in terms of the writing?
+
+I will take an unfinished novel based on my own stageplay which is itself a 'based on true events' fiction about an episode in NZ history known as 'The Furlough Incident.' The play, called Fond Love and Kisses was produced professionally in NZ in 2003
+
+Layered into this relatively straightforward narrative piece I will interleave personal history and memoir. This will have two major strands; the first about being a 'failing' writer and the second about the impact of war on family over three generations. 
+
+The style will build on something I have been writing for the last couple of years; a meta-blog called Bike by bike, a collection of autobiogrpahy and essays that is predicated on the device of having one piece per bicycle I have owned. The material in this ranges from simple life-writing to commentary about forests, industrialisation, characteristics of cities, being an immigrant and so on.
+
+Aftermath will necesarrly be more atomised than Bike by bike, but using a complex brew of historical events, autobiogpraphy and memoir I will create a broad range of inputs from the purely descriptive to the purely fictional to inhabit the virtual space of this world.
 
 
 
