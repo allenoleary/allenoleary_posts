@@ -24,6 +24,20 @@ Despite the once apparently liberating principle of the hyperlink people like  s
 
 What has shifted is that people 'do' stories in two ways - assembled by others (Stranger Things) but we are also prepared to assemble our own chains of meaning and interest by following loosely related ('recommended') content in what might be called hyper personal stories. This secondary form of self-directed story making is more akin to analysis in the classic mode - writing outselves with stories we make from fragments. Once this was undertaken with dreams, now the deep pool of alternative content that is the internet is a great substitute. This is writing as self-definition under the sign of the mystery - we like to solve ourselves, looking in the past, sifting truth and memory to create a story that fits our belief in ourselves that we then project to the world. We could call this activity #memeself, or simply as Facebook.
 
+That this #memeself is increasingly self reinforcing is also appratent. the personalisation and graph are used by the majors to reinforce existing personal views and prejudices. Seeing more content that affirms our world view is, at the least, contrary to democracy and at worst we have seen social-bubble effects hijacked by political parties to 'galvanise' mass movements. 
+
+Aftermath will play in this space - using personalisation and graph technologies to alter stories for readers. Sometimes this might be to create a story that is congruent to a readers world view, sometimes we could challenge it. The idea is not to present fragments - this is not about the liberation of the hyperlink - it is to present alternative wholes. 
+
+In this way I am envisaging readers being served personalised books the content being tailored by levels of implicit and explicit choice. A simple example is influencing a story based on whether someone is viewing from above or below the equator - this seemingly simple cut will create different resonances in the story (see below for why).
+
+So I will look at various mechanisms for creating these books from simple personalisation based on IP address through to looking into using people's facebook or adnetwork profiles. See the technical roadmap for more on how I see the progression through these technical points working.
+
+Alongside this I will use the power of graph to create interesting, complex and applicable stories that are nuanced and 
+
+
+
+
+## The material of Aftermath
 
 
 
