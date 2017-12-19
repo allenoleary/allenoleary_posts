@@ -37,11 +37,21 @@ Alongside this I will be aiming to use the power of graph to create interesting,
 
 
 
-## The material of Aftermath
+## What is Aftermath about?
 
-So much for the ideas; what is the are area I want to look at in terms of the writing?
+So much for the ideas; what will thi be about and how will the form and content relate?
 
-I will take an unfinished novel based on my own stageplay which is itself a 'based on true events' fiction about an episode in NZ history known as 'The Furlough Incident.' The play, called Fond Love and Kisses was produced professionally in NZ in 2003
+A straight narrative treated this way is never going to be satisfying to read. Like early branching games choice and closed narratives are a difficult combination to make work - witness the weakness of multi-ended single strand narratives; they just look undecided.
+
+The form of presentation above will be a positive if the following is true: The piece is complex, non-linear, multi-strand and open ended. The formats that tend to deliver these qualities are memoir, proems, essay, photos or illustrations or comics, mysteries, soaps, impressions. In short the minor, less highbrow modes of serious writing.
+
+In order to give myself a large range in which to write over a number of years I aim to develop several layers of work that can vibrate together in an open but satisfying way.
+
+My initia proposal is to take an unfinished novel based on my own stageplay which is itself a 'based on true events' fiction about an episode in NZ history known as 'The Furlough Incident.' The play, called Fond Love and Kisses was produced professionally in NZ in 2003. 
+
+The Furlough incident is about the refusal of a thousand soliders to return to WWII after they were granted a furlough in 1943. Their refusal sparked debates around responsibility, the colonial's role in empire, and notions of personal sacrifice and manhood. These men, having fought from Crete to El Alamein, were veterans and bought home angst, experience and conditions that hadn't been seen in NZ society. Of course they were expected to 'get on' with life and not make a fuss.
+
+The play and subsequent fiction is bulit around the experience of two brothers who come back and the fiancee that has been waiting for one of them to return. The overarching narrative of the play was linear but style of the play was moderatley experimental in that I did things like have scenes from several time periods running togther similtaneously - layered time. Issues that I explored in the lay included PTSD, wartime psychiatry (NZ experiemented in 'truth drugs' to unlock PTSD survivors repressed memories), clashes with the unionised dock workers and the huge number of American soldiers being trained for the Pacific war changing popular culture beyond recognition.  
 
 Layered into this relatively straightforward narrative piece I will interleave personal history and memoir. This will have two major strands; the first about being a 'failing' writer and the second about the impact of war on family over three generations. 
 
