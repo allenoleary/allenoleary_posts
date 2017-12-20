@@ -65,6 +65,10 @@ Aftermath will necesarrly be more atomised than Bike by bike and have a much les
 
 Sketch plan
 
+## Writing plan
+
+
+
 ## Technical road map
 
 In order to achieve the piece as whole I will need to work through a number of technical issues:
