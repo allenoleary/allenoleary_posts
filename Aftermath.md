@@ -69,13 +69,15 @@ Aftermath will necesarrly be more atomised than Bike by bike and have a much les
 
 Aftermath will be a grand hack. Using tools, technologies and concepts that corporations currently use for survailence marketing to both expose and use that information in the production of cultural meaning that cannot be owned and recirculated by those same corporations.
 
-Aftermath is therefore an explicit critique of the singluarising narrative urge and, by extension, cultural monism - the reduction of things to 'a single source of truth' that are then typed and resold. Unlike conventional 'life writing' it is not aiming to reduce to essences or make sense of the past, rather it is aiming to write like life is - a glorious, untamable, riot.
+Aftermath is therefore an explicit critique of the singluarising narrative urge and, by extension, cultural monism - the reduction of things to 'a single source of truth' that are then typed and resold. Unlike conventional 'life writing' it is not aiming to reduce to essences or make sense of the past, rather it is aiming to write like life is experienced - a glorious, untamable, riot.
 
 It is explicitly about detaching true self as multiple from the machinery of priority and privledge. Mark Zuckerberg said that people nshould only use their real names online and implied that anyone who had more than one name, or used aliases is criminal at worst and inauthentic at best. Of course he would say that he has a lot of money to make from real names. However people use aliases for legtimate reasons, but, crucially aliases make it more difficult for survilance marketing to 'remarket' to you.
 
 Living or writing the aliased, messy, multiple, untyped self has become then, not just a literary trophe or style, but an act of subversion. Of course that style of subversion is priviledged and positioned - I can afford the time and have sufficient agency to do so - but it also is located in the very heart of the territory; it is my time and agency and money that are being mined by the corporations. Is it a stretch to say that it is more revolutionary to create multiple selves and aliases than it is to protest in Trafalgar Square? As XXX points out in XXX it is pointless to strom the embassy becuase the real power is in owning infastructure and data and algorhythms.
 
+There are some interesting questions to research in here; Is it possible to alter a facebook profile of yourself by using 'dazzle data'? 
 
+This active critique and contestation in the 
 
 In this way Aftermath will be something of a return and development for me to a critical stance I took many years ago in a hyperessay from 1996 S.I.N. (Self-intra-network) I wrote while at Swinburne in Melbourne studying electronic fiction (Post Grad Diploma in Writing). It's youthful work, but there is some solid work on identity in the age of the network in it - this page gives a flavour.
 
