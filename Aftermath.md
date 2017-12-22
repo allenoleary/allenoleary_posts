@@ -32,7 +32,7 @@ In this way I am envisaging readers being served personalised books the content 
 
 So I will look at various mechanisms for creating these books from simple personalisation based on IP address through to looking into using people's facebook or adnetwork profiles. See the technical roadmap for more on how I see the progression through these technical points working.
 
-Alongside this I will be aiming to use the power of graph to create interesting, complex and involving stories. 
+Alongside this I will be aiming to use the power of graph to create interesting, complex and involving stories, but in the spitit of a grand hack.
 
 
 
@@ -64,6 +64,12 @@ Layered into this relatively straightforward narrative piece I will interleave p
 The style will build on something I have been writing for the last couple of years; a meta-blog called Bike by bike, a collection of autobiogrpahy and essays that is predicated on the device of having one piece per bicycle I have owned. The material in this ranges from simple life-writing to commentary about forests, industrialisation, characteristics of cities, being an immigrant and so on. Having been predominatly a playwright for most of my life the move into prose and essay has been challenging but very rewarding - it's a style of writing that is approachable and authentic. A good, if slightly harrowing piece, [is this one](http://bikeby.bike/bikes/13-everything-must-fall-apart/).
 
 Aftermath will necesarrly be more atomised than Bike by bike and have a much less personal point of view, but using a complex brew of historical events, autobiogpraphy and memoir I will create a broad range of inputs from the purely descriptive to the purely fictional to inhabit the virtual narrative space of this world.
+
+## But why?
+
+Aftermath will be a grand hack. Using free tools to then lever corporations survailence knowledge to both expose and use that information in the production of cultural meaning that cannot be owned and recirculated by those same corporations. 
+
+
 
 Sketch plan
 
