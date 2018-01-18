@@ -2,7 +2,7 @@
 
 Use 
 
-Use marketing and personalisation technologies (deep data, graph, segmentation) to create and present a customised creative nonfiction work about a piece of social history that matters.
+Use marketing and personalisation technologies (deep data, graph, segmentation) to create and present a customised creative nonfiction work about a compelling piece of social history.
 
 ### What
 
