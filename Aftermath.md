@@ -91,7 +91,7 @@ The writing itself. This will involve more research on the topic as well as cont
 
 Web development: Using graph databases in content management solutions is a niche and new area and one I don't know a lot about; there are multiple technical challenges here that might require relationships with a couple of developers or agency/company sponsorship in order to utlimately achieve the technical capability I need.
 
-Data and adtech: There are some interesting questions to research in here; Is it possible to alter a facebook profile of yourself by using 'dazzle data'? Can you 'pass' a creative work inside an adnetwork? Will I need to create my own deep data hooks?
+Data and adtech: There are some interesting questions to research in here; Is it possible to alter a facebook profile of yourself by using 'dazzle data'? Can you 'pass' a creative work inside an adnetwork? Can we lever ideas from machine learning and things like automated sentiment analysis?
 
 Marketting: As this project will be using marketting techniques I will need to understand them better and extend knowledge of analytics, multivariate testing, SEO and other techniques of attraction.
 
