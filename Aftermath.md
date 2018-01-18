@@ -47,15 +47,15 @@ Alongside this I will be aiming to use the power of graph to create interesting,
 
 
 
-## What is Aftermath about?
+4. Social history... life writing... creative nonfiction... what is Aftermath actually about?
 
-So much for the ideas; what will thi be about and how will the form and content relate?
+So much for the ideas; what will the peice be about and how will the form and content relate to each other?
 
-A straight narrative treated this way is never going to be satisfying to read. Like early branching games choice and 'complete' narratives are a difficult combination to make work - witness the weakness of multi-ended single strand narratives; they end up looking undecided and the authorial effort required to make more than a couple of choices work is immense; all for a thin illusion of reader agency. The satisfying narrative that works with satisfying agency is an ongoing issue that the games industry (with its massive budgets) is best left to tackle. 
+A linear narrative treated this way is never going to be satisfying to read. Like early branching games choice and 'complete' narratives are a difficult combination to make work - witness the weakness of multi-ended single strand narratives; they end up looking undecided and the authorial effort required to make more than a couple of choices work is immense; all for a thin illusion of reader agency. The satisfying narrative that works with and for satisfying agency is a difficult and ongoing issue that the games industry (with its massive budgets) is best left to tackle. 
 
-A work of lieterature based on the ideas above will be a positive if the following is true: it is complex, non-linear, multi-strand and open ended. The formats that tend to deliver these qualities are memoir, proems, essay, photos or illustrations or comics, mysteries, soaps, impressions. Alternatively the more complex delibertaely wilful forms of 'anti-closure' literature and text-art resonante here too - your Tristram Shandys, modernist verse etc. 
+A work of lieterature based on the ideas above will be a positive if the following is true: it is complex, non-linear, multi-strand and open ended. The formats that tend to deliver these qualities are memoir, p(r)oems, essay, photos or illustrations or comics, mysteries, soaps, impressions. Alternatively the more complex delibertaely wilful forms of 'anti-closure' literature and text-art resonante here too - your Tristram Shandys, modernist verse etc. 
 
-In short the minor, less highbrow modes of serious writing or very highbrow art literature. The middle ground, where the expectation is of completion and closure 'a good story well told', is less profitable for dynamic or algorthic literature. 
+In short the minor, less highbrow modes of serious writing or very highbrow art literature. The middle ground, where the expectation is of completion and closure 'a good story well told', is not profitable for dynamic or algorthic literature. I am not trying to write a Booker winner.
 
 Having said all that I am not wedded to obscurity and complexity for it's own sake. Where things have a complex form they must have complex content. 
 
@@ -63,15 +63,13 @@ In order to give myself a large range in which to write over a number of years I
 
 My initial proposal is to take an unfinished novel based on my own stageplay which is itself a 'based on true events' fiction about an episode in NZ history known as 'The Furlough Incident.' The play, called Fond Love and Kisses was produced professionally in NZ in 2003. 
 
-A totality, falling apart. The topic if fragmentation and story telling in an effort to rebuild.
+During the Furlough incident a thousand soliders refused to return to WWII after they were granted a furlough in NZ. Their refusal sparked debates around personal scrifice, the colonial role in empire, and notions of service, reward and manhood. These men, having fought from Crete to El Alamein, were veterans and bought home their angst and experiences that were new to NZ society. Of course they were expected to 'get on' with the war once they had taken their break; no shirking allowed. The Furlough men's basic argument was that they have given three years, now it was someone elses turn. With the protected industries of farming, manufacture and transport there were plenty of young men to replace them.
 
-The Furlough incident is about the refusal of a thousand soliders to return to WWII after they were granted a furlough in 1943. Their refusal sparked debates around responsibility, the colonial's role in empire, and notions of personal sacrifice and manhood. These men, having fought from Crete to El Alamein, were veterans and bought home angst, experience and conditions that hadn't been seen in NZ society. Of course they were expected to 'get on' with life and not make a fuss.
-
-The play and subsequent fiction is bulit around the experience of two brothers who come back and the fiancee that has been waiting for one of them to return. The overarching narrative of the play was linear but style of the play was moderatley experimental in that I did things like have scenes from several time periods running togther similtaneously - layered time. Issues that I explored in the lay included PTSD, wartime psychiatry (NZ experiemented in 'truth drugs' to unlock PTSD survivors repressed memories), clashes with the unionised dock workers and the huge number of American soldiers being trained for the Pacific war changing popular culture beyond recognition. Essentially post-colonial studies mixed with some surprising history.   
+The play is bulit around the experience of two brothers who come back and the fiancee that has been waiting for one of them to return. The overarching narrative of the play was linear but style of the play was moderatley experimental in that I did things like have scenes from several time periods running togther similtaneously - layered time. Issues that I explored in the play included PTSD, wartime psychiatry (NZ experiemented in 'truth drugs' to unlock PTSD survivors repressed memories), clashes with the unionised dock workers and the huge number of American soldiers being trained for the Pacific war changing popular culture beyond recognition. Essentially post-colonial studies mixed with some surprising and supressed history.   
 
 Layered into this relatively straightforward narrative piece I will interleave personal history and memoir. This will have two major strands; the first about being a 'failing' writer and the second about the impact of war on family over three generations. This is where the complexity comes in. Having a 'multinodal' subject structure (WWII, me, family, NZ, mental health, masculinity) will allow the work to have multiple meanings and configurations without seeming depleted or forced. The implication here is that the virtual narrative world will be significantly larger than many of the possible works that come from it. I would expect to have between 200-300,000 words in the final work. 
 
-The style will build on something I have been writing for the last couple of years; a meta-blog called Bike by bike, a collection of autobiogrpahy and essays that is predicated on the device of having one piece per bicycle I have owned. The material in this ranges from simple life-writing to commentary about forests, industrialisation, characteristics of cities, being an immigrant and so on. Having been predominatly a playwright for most of my life the move into prose and essay has been challenging but very rewarding - it's a style of writing that is approachable and authentic. A good, if slightly harrowing piece, [is this one](http://bikeby.bike/bikes/13-everything-must-fall-apart/).
+The style will build on something I have been writing for the last couple of years; a meta-blog called Bike by bike, a collection of autobiogrpahy and essays that is predicated on the device of having one piece per bicycle I have owned. The material in this ranges from simple life-writing to commentary about forests, industrialisation, characteristics of cities, being an immigrant and so on. Having been predominatly a playwright for most of my life the move into prose and essay has been challenging but very rewarding and something I want to extend. A good, if slightly harrowing piece, [is this one](http://bikeby.bike/bikes/13-everything-must-fall-apart/).
 
 Aftermath will necesarrly be more atomised than Bike by bike and have a much less personal point of view, but using a complex brew of historical events, autobiogpraphy and memoir I will create a broad range of inputs from the purely descriptive to the purely fictional to inhabit the virtual narrative space of this world.
 
@@ -79,44 +77,42 @@ Aftermath will necesarrly be more atomised than Bike by bike and have a much les
 
 Aftermath will be a grand hack. Using tools, technologies and concepts that corporations currently use for survailence marketing to both expose and use that information in the production of cultural meaning that cannot be owned and recirculated by those same corporations.
 
-Aftermath is therefore an explicit critique of the singluarising narrative urge and, by extension, cultural monism - the reduction of things to 'a single source of truth' that are then typed and resold. Unlike conventional 'life writing' it is not aiming to reduce to essences or make sense of the past, rather it is aiming to write like life is experienced - a glorious, untamable, riot.
+Aftermath is therefore an explicit critique of the singluarising narrative urge and, by extension, cultural monism - the reduction of things to 'a single source of truth' that are then typed and resold. Unlike conventional life writing it is not aiming to reduce to essences or make sense of the past, rather it is aiming to write like life is experienced - a glorious, untamable, riot... or maybe a party.
 
-It is explicitly about detaching true self as multiple from the machinery of priority and privledge. Mark Zuckerberg said that people nshould only use their real names online and implied that anyone who had more than one name, or used aliases is criminal at worst and inauthentic at best. Of course he would say that he has a lot of money to make from real names. However people use aliases for legtimate reasons, but, crucially aliases make it more difficult for survilance marketing to 'remarket' to you.
+It is explicitly about detaching true self as multiple from the machinery of priority and privledge. Mark Zuckerberg said that people should only use their real names online and implied that anyone who had more than one name, or used aliases is criminal at worst and inauthentic at best. Of course he would say that he has a lot of money to make from real names. However people use aliases for legtimate reasons, but, crucially aliases make it more difficult for survilance marketing to 'remarket' to you.
 
-Living or writing the aliased, messy, multiple, untyped self has become then, not just a literary trophe or style, but an act of subversion. Of course that style of subversion is priviledged and positioned - I can afford the time and have sufficient agency to do so - but it also is located in the very heart of the territory; it is my time and agency and money that are being mined by the corporations. Is it a stretch to say that it is more revolutionary to create multiple selves and aliases than it is to protest in Trafalgar Square? As XXX points out in XXX it is pointless to strom the embassy becuase the real power is in owning infastructure and data and algorhythms.
+Living or writing the aliased, messy, multiple, untyped self has become then, not just a literary trophe or style, but an act of subversion. Of course that style of subversion is priviledged and positioned - I can afford the time and have sufficient agency to do so - but it also is located in the very heart of the territory; it is my time and agency and money that are being mined by the corporations. Is it a stretch to say that it is more revolutionary to create multiple selves and aliases than it is to protest in Trafalgar Square? Is it pointless to strom the embassy becuase the real power is in owning infastructure and data and algorhythms?
 
-There are some interesting questions to research in here; Is it possible to alter a facebook profile of yourself by using 'dazzle data'? 
+## Challenges
 
-This active critique and contestation in the 
+There ar nultiple challenges in this work:
 
-In this way Aftermath will be something of a return and development for me to a critical stance I took many years ago in a hyperessay from 1996 S.I.N. (Self-intra-network) I wrote while at Swinburne in Melbourne studying electronic fiction (Post Grad Diploma in Writing). It's youthful work, but there is some solid work on identity in the age of the network in it - this page gives a flavour.
+The writing itself. This will involve more research on the topic as well as continually pushing on the content and style.
 
+Web development: Using graph databases in content management solutions is a niche and new area and one I don't know a lot about; there are multiple technical challenges here that might require relationships with a couple of developers or agency/company sponsorship in order to utlimately achieve the technical capability I need.
 
+Data and adtech: There are some interesting questions to research in here; Is it possible to alter a facebook profile of yourself by using 'dazzle data'? Can you 'pass' a creative work inside an adnetwork? Will I need to create my own deep data hooks?
 
+Marketting: As this project will be using marketting techniques I will need to understand them better and extend knowledge of analytics, multivariate testing, SEO and other techniques of attraction.
 
+##Sketch plan
 
+### Writing plan
 
-
-
-
-Sketch plan
-
-## Writing plan
-
-While I have some existing work on the 
+While I have some existing work in the form of the play and around 70k words of a novel there is a lot to do to extend that further. There is also a degree of complex planning to do as I think the best way to proceed is to create one full layer as a Minimal Viable Product and then work to add further layers over time. 
 
 
 ## Technical road map
 
 In order to achieve the piece as whole I will need to work through a number of technical issues:
 
-Understand the graphing database and how to use it to store and retrieve information
-Integrate graph engine with a content management system (drupal)
-Desing and code content engine
-Design and code a front-end for the work, something that will allow users to choose 
-Intergrate analytics for reporting but also for 
-Layer in marketing technologies (multivariate testing)
-Understand adnetwork and facebook APIs; work out how to use them creatively then integrate into the CMS
+ - Understand the graphing database and how to use it to store and retrieve information
+ - Integrate graph engine with a content management system
+ - Design and code the content engine
+ - Design and code a front-end for the work, something that will allow users to choose 
+ - Intergrate analytics for reporting but also for 
+ - Layer in marketing technologies
+ - Understand adnetwork and facebook APIs; work out how to use them creatively then integrate into the CMS
 
 ## Form roadmap
 
@@ -126,8 +122,6 @@ As the technical develops I will be continually writing and my intention is for 
  - Secondly in a CMS tied to a graph engine to start experimenting with form of presentation
  - Add analytics both as a writing mechanism and a tool to allow improving the work
  - Then layer in personalisation engines
-
-The only CMS that will let me do all that without spending a fortune is the open source product Drupal. I have previously used Drupal extensively and have worked professionally in Drupal agencies as a consultant, so I know that it can do what I want. However at a technical level I would look to establish relationships with a couple of developers or via agency sponsorship in order to utlimately achieve the technical capability I need.
 
 
 
