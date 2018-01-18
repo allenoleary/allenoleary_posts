@@ -1,6 +1,8 @@
-## Aftermath
+## Proposal in a para
 
-Use social graph and personalisation technologies to create and present a creative nonfiction work about a piece of history.
+Use 
+
+Use marketing and personalisation technologies (deep data, graph, segmentation) to create and present a customised creative nonfiction work about a piece of social history that matters.
 
 ### What
 
